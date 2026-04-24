@@ -13,3 +13,5 @@ software, so knowing how to code gives me a strong advantage in
 my future career. I also enjoy the feeling of creating something
 from scratch, which motivates me to keep learning and improving.
 
+Favourite programming language I want to learn: Python
+My goal: To build useful applications for my community
